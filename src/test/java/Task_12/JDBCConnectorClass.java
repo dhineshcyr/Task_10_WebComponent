@@ -63,9 +63,6 @@ String dburl="jdbc:mysql://localhost:3306";
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		
-		
-		
 
 	}
 
