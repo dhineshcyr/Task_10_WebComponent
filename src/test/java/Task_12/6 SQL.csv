@@ -1,0 +1,2 @@
+empno,ename,job,mgr,hiredate,salary,comm,deptno
+8888,SCOTT,ANALYST,8566,1992-12-09,3000.0000,NULL,20
